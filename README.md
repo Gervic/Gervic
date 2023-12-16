@@ -2,20 +2,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hi, my name is Victorien (but you can call me Vic) and I'm a technology enthusiast 
+  Hi, my name is Victorien (but you can call me Vic) and I'm a technology enthusiast.
   I am an experienced data analyst with more than 2 years of experience working in the field of BI and data analytics. 
   My expertise lies in data visualization, data modeling, and data reporting, and I have a good understanding of the tools and technologies used to collect, store, and analyze large datasets. 
   I am passionate about turning data into actionable insights and helping businesses make informed decisions.<br>
 
-  At this moment, I work for a brazilian company called iFood in the fraud prevention area
+  At this moment, I work for a brazilian company called iFood in the fraud prevention area.
 </p>
 
 <p align="left">
-  🦄 Programming Languages: SQL, Python and Pyspark
+  🧮 Programming Languages: SQL, Python, Pyspark and Linux
 </p>
 
 <p align="left">
-  💼 Tools: **Databricks, Tableau, Airflow, Jira, Confluence, Slack, Vscode, Jupyter**
+  💼 Tools/Technologies: **Databricks, Tableau, Airflow, Jira, Confluence, Slack, Vscode, Jupyter, Docker, Gitlab **
 </p>
 
 <p align="left">
