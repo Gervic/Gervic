@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Tools/Technologies: **Databricks, Tableau, Airflow, Jira, Confluence, Slack, Vscode, Jupyter, Docker, Gitlab **
+  💼 Tools/Technologies: Databricks, Tableau, Airflow, Jira, Confluence, Slack, Vscode, Jupyter, Docker, Gitlab
 </p>
 
 <p align="left">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="ger.nago@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 
   <a href="https://www.linkedin.com/in/gerardonago/" title="LinkedIn">
