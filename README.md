@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 Tools/Technologies: Databricks, Tableau, ThoughtSpot, Airflow, Jira, Confluence, Slack, Vscode, Jupyter, Docker, Gitlab, dbt, s3, aws glue
+  💼 Tools/Technologies: Databricks, Tableau, ThoughtSpot, Airflow, Jira, Confluence, Slack, Vscode, Docker, Gitlab, dbt, s3, BigQuery
 </p>
 
 <p align="left">
