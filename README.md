@@ -4,8 +4,8 @@
 <p align="left"> 
   Hi, my name is Victorien (but you can call me Vic) and I'm a technology enthusiast.<br>
   
-  I am an experienced data analyst with more than 4 years of experience working in the field of BI and data analytics. 
-  My expertise lies in data visualization, data modeling, and data reporting, and I have a good understanding of the tools and technologies used to collect, store, and analyze large datasets. 
+  I am an experienced analytics engineer with more than 4 years of experience working in the field of BI and data analytics. 
+  My expertise lies in data modeling, data visualization and data reporting. and I have a good understanding of the tools and technologies used to collect, store, and analyze large datasets. 
   I am passionate about turning data into actionable insights and helping businesses make informed decisions.<br>
 
   At this moment, I work for a brazilian company called iFood in the banking department.
